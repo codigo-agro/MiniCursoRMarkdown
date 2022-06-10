@@ -1,0 +1,84 @@
+---
+title: "Aula02 - Realizando edições no texto"
+author: "Código Agro"
+date: "26/10/2021"
+output: 
+  html_document:
+    toc: true
+    number_sections: true
+---
+
+# Explorando o conjunto de dados Orange
+
+## Conjunto de Dados {-}
+
+Começaremos observando o conjunto de dados:
+
+```{r}
+head(Orange, 10)
+```
+
+Para obter os dados, as plantas foram adubadas com diferentes doses de NH~4~NO~3~ e além disso no ~~suelo~~ solo foi identificado um alto conteúdo de Ca^2+^
+
+## Correlação entre idade e Circunferência
+
+A seguir podemos observar o grau de ***correlação*** entre  *circunferência* e **idade**
+
+```{r}
+correlacao = cor.test(Orange$age, Orange$circumference)
+correlacao
+r2 = correlacao$estimate
+```
+
+O código `cor.test(Orange$age, Orange$circumference)` obtém uma estatística completa da correlação entre os pares avaliados
+
+
+## Relação entre circunferência e idade 
+
+A seguir podemos observar a circunferência em função da idade
+
+Vimos que a idade e a circunferência possuem uma correlação igual a `r r2`
+
+```{r}
+# Plota um gráfico que expressa
+# a relação da circunferência em função da idade
+plot(Orange$age, Orange$circumference,
+     xlab = "Idade",
+     ylab = "Circunferência")
+```
+
+Para aprender mais sobre R Markdown acesse o [Canal da Código Agro](https://www.youtube.com/watch?v=oEfURbLH0dA&list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+
+
+***
+
+---
+
+>>> *"Uma longa jornada começa com um primeiro passo"*
+
+
+* Primeiro item
+* Segundo item
+* Terceiro item
+  * Mais um item
+  * Outro item
+
+
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+    a. Mais um item
+    b. Outro item
+
+
+
+
+
+
+
+
+
+
+
+
+
