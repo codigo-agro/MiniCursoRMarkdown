@@ -1,0 +1,27 @@
+---
+title: "Meu primeiro documento em R Markdown"
+author: "Código Agro"
+date: "11/10/2021"
+output: html_document
+---
+
+# Explorando o conjunto de dados Orange
+
+Começaremos observando o conjunto de dados
+
+```{r}
+print(Orange)
+```
+
+A seguir podemos observar a cincunferência em função da idade
+
+```{r}
+# Criar um gráfico de dispersão
+# que expressa a circunferência em função da idade
+plot(Orange$age, 
+     Orange$circumference,
+     xlab = "Idade",
+     ylab = "Cincunferência",
+     col = as.factor(Orange$Tree))
+```
+
