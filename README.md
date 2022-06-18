@@ -7,3 +7,7 @@
 ## Aula 02 - Formatação do texto do seu documento em R Markdown
 
 [<img src="https://img.youtube.com/vi/6jgCYbN48jM/maxresdefault.jpg" width="300">](https://youtu.be/6jgCYbN48jM?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+
+## Aula 03 - Opções para os blocos de código
+
+[<img src="https://img.youtube.com/vi/6RrOAy0vGa4/maxresdefault.jpg" width="300">](https://youtu.be/6RrOAy0vGa4?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
