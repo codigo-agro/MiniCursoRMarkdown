@@ -14,4 +14,4 @@
 
 ## Aula 04 - Edição de Equações
 
-[<img src="https://img.youtube.com/vi/wByaJ1j0egU&t/maxresdefault.jpg" width="300">](https://youtu.be/wByaJ1j0egU&t?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+[<img src="https://img.youtube.com/vi/wByaJ1j0egU/maxresdefault.jpg" width="300">](https://youtu.be/wByaJ1j0egU?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
