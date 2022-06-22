@@ -15,3 +15,7 @@
 ## Aula 04 - Edição de Equações
 
 [<img src="https://img.youtube.com/vi/wByaJ1j0egU/maxresdefault.jpg" width="300">](https://youtu.be/wByaJ1j0egU?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+
+## Aula 05 - Apresentação de tabelas
+
+[<img src="https://img.youtube.com/vi/S0_dQ3BZJas/maxresdefault.jpg" width="300">](https://youtu.be/S0_dQ3BZJas?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
