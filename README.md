@@ -19,3 +19,7 @@
 ## Aula 05 - Apresentação de tabelas
 
 [<img src="https://img.youtube.com/vi/S0_dQ3BZJas/maxresdefault.jpg" width="300">](https://youtu.be/S0_dQ3BZJas?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+
+## Aula 06 - Editando a apresentação de tabelas via função datatable()
+
+[<img src="https://img.youtube.com/vi/MSiXfO55goY/maxresdefault.jpg" width="300">](https://youtu.be/MSiXfO55goY?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
