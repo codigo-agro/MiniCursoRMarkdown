@@ -23,3 +23,7 @@
 ## Aula 06 - Editando a apresentação de tabelas via função datatable()
 
 [<img src="https://img.youtube.com/vi/MSiXfO55goY/maxresdefault.jpg" width="300">](https://youtu.be/MSiXfO55goY?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+
+## Aula 07 - Automatização da data, figuras, citações e referenciamento
+
+[<img src="https://img.youtube.com/vi/7ou16gZ9gao/maxresdefault.jpg" width="300">](https://youtu.be/7ou16gZ9gao?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
