@@ -27,3 +27,7 @@
 ## Aula 07 - Automatização da data, figuras, citações e referenciamento
 
 [<img src="https://img.youtube.com/vi/7ou16gZ9gao/maxresdefault.jpg" width="300">](https://youtu.be/7ou16gZ9gao?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
+
+## Aula 08 - Usando Python e R em código R Markdown
+
+[<img src="https://img.youtube.com/vi/EuDd1WE3c_4/maxresdefault.jpg" width="300">](https://youtu.be/EuDd1WE3c_4?list=PL5tyjyaX9n4PFlUtJkuuMpl9wbzQ4uFKu)
